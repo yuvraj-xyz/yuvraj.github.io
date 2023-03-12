@@ -309,4 +309,5 @@ category.addEventListener('click', () => {
    */
   new PureCounter();
 
+  
 })()
