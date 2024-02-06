@@ -342,6 +342,54 @@ transform: rotate(180deg);
 }
 
 /*--------------------------------------------------------------
+# Testimonial Section
+--------------------------------------------------------------*/
+
+/* Your existing styles */
+
+/* Testimonials Section Styles */
+#testimonials {
+  background-color: #f9f9f9;
+  padding: 60px 0;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+h2 {
+  text-align: center;
+  color: #333;
+}
+
+.testimonial {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.testimonial img {
+  width: 100px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
+.testimonial p {
+  font-style: italic;
+  color: #555;
+}
+
+.client-info {
+  display: block;
+  margin-top: 10px;
+  font-weight: bold;
+  color: #777;
+}
+
+/* Your existing styles */
+
+
+/*--------------------------------------------------------------
 # Sections General
 --------------------------------------------------------------*/
 section {
